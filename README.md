@@ -10,9 +10,9 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compiles and create a db.json for JSON-SERVER (home: http://localhost:5050) (profile: http://localhost:5050/profile)
 ```
-yarn build
+yarn server
 ```
 
 ### Customize configuration
